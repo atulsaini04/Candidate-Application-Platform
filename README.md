@@ -4,7 +4,7 @@ Welcome to the Candidate Application Platform, your gateway to exploring and app
 
 
 
-Check out the live demo of the Candidate Application Platform at:  [Candidate Application Platform]()
+Check out the live demo of the Candidate Application Platform at:  [Candidate Application Platform](https://candidate-application-platform-sigma.vercel.app/)
 ## Features
 
 - **Job Listings**: Explore a wide range of job listings from various industries and sectors.
@@ -28,16 +28,5 @@ Check out the live demo of the Candidate Application Platform at:  [Candidate Ap
 1. Clone the repository:
 ```git clone https:https://github.com/atulsaini04/Candidate-Application-Platform.git```
 2. Install backend dependencies:
-```npm install```
-3. Install axios
-```npm install axios@^1.6.8```
-4. Install React Redux
-```npm install react-redux@^9.1.2```
-5. Install React Infinite Scroll Component
-```npm install react-infinite-scroll-component@^6.1.0```
-6. Install React Router DOM
-```npm install react-router-dom@^6.23.0```
-7. Install React Scripts
-```npm install react-scripts@5.0.1```
-8. Install Redux
-```npm install redux@^5.0.1```
+```npm install --force```
+
