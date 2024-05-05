@@ -1,26 +1,43 @@
-# Getting Started with Create React App
+# Candidate Application Platform
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Welcome to the Candidate Application Platform, your gateway to exploring and applying for exciting job opportunities! This platform is designed to provide a seamless experience for candidates to browse through job listings, filter jobs based on their preferences, and apply effortlessly.
 
-## Available Scripts
 
-In the project directory, you can run:
 
-### `npm start`
+Check out the live demo of the Candidate Application Platform at:  [Candidate Application Platform]()
+## Features
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- **Job Listings**: Explore a wide range of job listings from various industries and sectors.
+- **Filtering Options**: Refine your job search by filtering based on criteria such as location, job type, experience level, and more.
+- **Infinite Scroll**: Enjoy a seamless browsing experience with infinite scroll, allowing you to view an endless stream of job listings without interruption.
+- **User-Friendly Interface**: Navigate through the platform with ease and find the perfect job match for you.
+- **Easy Application Process**: Apply to jobs directly through the platform with a user-friendly application process.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm run build`
+## Technologies Used
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- **React**: A JavaScript library for building user interfaces.
+- **Redux**: A predictable state container for managing application state.
+- **React Router**: A routing library for React applications, enabling dynamic routing.
+- **Axios**: A promise-based HTTP client for making requests to backend APIs.
+- **React Infinite Scroll Component**: A React component for implementing infinite scrolling behavior.
+- **Other Dependencies**: Various other dependencies are utilized to enhance the functionality and user experience of the platform.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Installation
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
+1. Clone the repository:
+```git clone https:https://github.com/atulsaini04/Candidate-Application-Platform.git```
+2. Install backend dependencies:
+```npm install```
+3. Install axios
+```npm install axios@^1.6.8```
+4. Install React Redux
+```npm install react-redux@^9.1.2```
+5. Install React Infinite Scroll Component
+```npm install react-infinite-scroll-component@^6.1.0```
+6. Install React Router DOM
+```npm install react-router-dom@^6.23.0```
+7. Install React Scripts
+```npm install react-scripts@5.0.1```
+8. Install Redux
+```npm install redux@^5.0.1```
