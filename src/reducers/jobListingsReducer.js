@@ -1,4 +1,3 @@
-// src/reducers/jobListingsReducer.js
 import { FETCH_JOB_LISTINGS_REQUEST, FETCH_JOB_LISTINGS_SUCCESS, FETCH_JOB_LISTINGS_FAILURE } from '../actions/jobListingActions.js';
 
 const initialState = {
