@@ -1,70 +1,43 @@
-# Getting Started with Create React App
+# Candidate Application Platform
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Welcome to the Candidate Application Platform, your gateway to exploring and applying for exciting job opportunities! This platform is designed to provide a seamless experience for candidates to browse through job listings, filter jobs based on their preferences, and apply effortlessly.
 
-## Available Scripts
 
-In the project directory, you can run:
 
-### `npm start`
+Check out the live demo of the Candidate Application Platform at:  [Candidate Application Platform]()
+## Features
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- **Job Listings**: Explore a wide range of job listings from various industries and sectors.
+- **Filtering Options**: Refine your job search by filtering based on criteria such as location, job type, experience level, and more.
+- **Infinite Scroll**: Enjoy a seamless browsing experience with infinite scroll, allowing you to view an endless stream of job listings without interruption.
+- **User-Friendly Interface**: Navigate through the platform with ease and find the perfect job match for you.
+- **Easy Application Process**: Apply to jobs directly through the platform with a user-friendly application process.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
+## Technologies Used
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- **React**: A JavaScript library for building user interfaces.
+- **Redux**: A predictable state container for managing application state.
+- **React Router**: A routing library for React applications, enabling dynamic routing.
+- **Axios**: A promise-based HTTP client for making requests to backend APIs.
+- **React Infinite Scroll Component**: A React component for implementing infinite scrolling behavior.
+- **Other Dependencies**: Various other dependencies are utilized to enhance the functionality and user experience of the platform.
 
-### `npm run build`
+## Installation
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+1. Clone the repository:
+```git clone https:https://github.com/atulsaini04/Candidate-Application-Platform.git```
+2. Install backend dependencies:
+```npm install```
+3. Install axios
+```npm install axios@^1.6.8```
+4. Install React Redux
+```npm install react-redux@^9.1.2```
+5. Install React Infinite Scroll Component
+```npm install react-infinite-scroll-component@^6.1.0```
+6. Install React Router DOM
+```npm install react-router-dom@^6.23.0```
+7. Install React Scripts
+```npm install react-scripts@5.0.1```
+8. Install Redux
+```npm install redux@^5.0.1```
