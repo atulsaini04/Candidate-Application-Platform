@@ -29,4 +29,6 @@ Check out the live demo of the Candidate Application Platform at:  [Candidate Ap
 ```git clone https:https://github.com/atulsaini04/Candidate-Application-Platform.git```
 2. Install backend dependencies:
 ```npm install --force```
+3. Start Server
+```npm start```
 
